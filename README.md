@@ -1,19 +1,19 @@
-# uriChallenge1
-URI bootcamp challenge 1 - week 1 - gitHub and HTML code refactoring MJS
+# uriHomework1
+URI bootcamp homework 1 - week 1 - gitHub, HTML and CSS code refactoring
 
-Michael Sheliga 11.16.23
+Michael Sheliga 10.4.24  
 
-This repo is for the University of Richmond (URI) coding bootcamp.  
-This is the week 1 challenge due 11.16.23. 
+This repo is for learning and fluency.   
+It is a copy of the University of Richmond (URI) coding bootcamp week 1 challenge. 
 
-In summary this repo will establish the basics of using gitHub and improving (refactoring) simple HTML code.  
-a============================================================================================================    
+In summary this repo will establish the basics of using gitHub, and improving (refactoring) simple HTML and CSS code.  
+============================================================================================================    
 Github:  
     Create Repo  
     Clone to local machine   
     Create a nice long READ.md file!!  
     Copy sample files from Demo folder (likely hardest part!)  
-    ... refactor HTML ...  
+    ... refactor HTML (the main task) ...  
     Commit and push files back to gitHub  
     Deploy code  
     Make Sure it Works  
