@@ -1,15 +1,23 @@
 /* MJS 10.4.26 - HW1 style.css */ 
 
+/* Begin css with default and things that occur throughout html (p, a) */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
+/* anchors and paragraphs */
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* Header elements next */ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,13 +51,8 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
+body {
+    background-color: #d9dcd6;
 }
 
 .hero {
