@@ -77,12 +77,14 @@ body {
     margin-left: 25px;
 }
 
+/* Content consists of the 3 photo-text rectangles to the left (width of 75%) */ 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits is the right vertical rectangle (width of 20%) */ 
 .benefits {
     margin-right: 20px;
     padding: 20px;
