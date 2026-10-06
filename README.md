@@ -14,14 +14,14 @@ Create Repo
 Clone to local machine  
 Create a nice long READ.md file!!  
 Copy sample files from Demo folder (likely hardest part!)  
-Refactor HTML (the main task)  
+Refactor HTML (the main task)
 
 ... Combine style.css classes
 
 ... Change index.html div to header-nav, main(add)-sections, footer  
 Commit and push files back to gitHub  
-Deploy code  
-Make Sure it Works
+Deploy Code => Static Website => Repo->Settings->Pages->Select Main and Root   
+Make Sure it Works 
 
 HTML:  
 View the Acceptance Criteria  
