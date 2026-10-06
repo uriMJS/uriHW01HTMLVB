@@ -21,7 +21,11 @@ Refactor HTML (the main task)
 ... Change index.html div to header-nav, main(add)-sections, footer  
 Commit and push files back to gitHub  
 Deploy Code => Static Website => Repo->Settings->Pages->Select Main and Root   
-Make Sure it Works 
+Make Sure it Works - Check https:username.githubio/repoName  
+
+Link to deployed project: https://urimjs.github.io/uriHW01HTMLVB/   
+
+
 
 HTML:  
 View the Acceptance Criteria  
